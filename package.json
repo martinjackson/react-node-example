@@ -42,7 +42,7 @@
   "dependencies": {
     "@version/react-router-v3": "^1.0.0",
     "antd": "^4.8.2",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "madge": "^3.12.0",
     "react": "^17.0.1",
     "react-autobind": "^1.0.6",
