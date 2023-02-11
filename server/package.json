@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.20",
     "npm-force-resolutions": "0.0.3"
   },
   "resolutions": {
